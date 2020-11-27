@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "2c7b52a6a2f144bbf25e02e6548cf489",
+    "packages": [
+        {
+            "name": "baronvertigovongrahamthesecondofsealand/genpass",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/baronvertigovongrahamthesecondofsealand/genpass.git",
+                "reference": "cf6ef8ca30f994e7a6005970533a96abe48f5429"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/baronvertigovongrahamthesecondofsealand/genpass/zipball/cf6ef8ca30f994e7a6005970533a96abe48f5429",
+                "reference": "cf6ef8ca30f994e7a6005970533a96abe48f5429",
+                "shasum": ""
+            },
+            "type": "project",
+            "authors": [
+                {
+                    "name": "Cameron Graham",
+                    "email": "cam.graham@gmail.com"
+                }
+            ],
+            "description": "Generate passwords from memes",
+            "support": {
+                "source": "https://github.com/baronvertigovongrahamthesecondofsealand/genpass/tree/master",
+                "issues": "https://github.com/baronvertigovongrahamthesecondofsealand/genpass/issues"
+            },
+            "time": "2020-11-27T01:36:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "baronvertigovongrahamthesecondofsealand/genpass": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

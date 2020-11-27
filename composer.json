@@ -1,0 +1,19 @@
+{
+    "name": "baronvertigovongrahamthesecondofsealand/github-page",
+    "authors": [
+        {
+            "name": "Cameron Graham",
+            "email": "cam.graham@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+
+            "type": "github",
+            "url": "git@github.com:baronvertigovongrahamthesecondofsealand/genpass.git"
+        }
+    ],
+    "require": {
+        "baronvertigovongrahamthesecondofsealand/genpass": "dev-master"
+    }
+}
