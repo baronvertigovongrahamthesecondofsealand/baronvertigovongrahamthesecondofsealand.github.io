@@ -1,0 +1,3 @@
+[submodule "genpass"]
+	path = genpass
+	url = git@github.com:baronvertigovongrahamthesecondofsealand/genpass.git
