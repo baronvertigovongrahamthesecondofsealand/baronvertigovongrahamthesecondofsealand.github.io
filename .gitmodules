@@ -1,6 +1,6 @@
-[submodule "genpass"]
-	path = genpass
-	url = git@github.com:baronvertigovongrahamthesecondofsealand/genpass.git
 [submodule "dndfumble"]
 	path = dndfumble
-	url = git@github.com:baronvertigovongrahamthesecondofsealand/dndfumble.git
+	url = https://github.com/baronvertigovongrahamthesecondofsealand/dndfumble.git
+[submodule "genpass"]
+	path = genpass
+	url = https://github.com/baronvertigovongrahamthesecondofsealand/genpass.git
